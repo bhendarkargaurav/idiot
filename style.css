@@ -2,6 +2,7 @@
     height: 30vw;
     width: 75vw; 
     margin-left: 8rem;
+    border-radius: 20px;
     
     /* margin-top: .6rem; */
 }
@@ -16,4 +17,13 @@
 .h3{
     text-align: center;
     color: blue;
+}
+.quote{
+    border: 80px;
+    padding-left: 110px;
+}
+.hii{
+    padding-left: 550px;
+    color: red;
+    text-decoration: underline;
 }
