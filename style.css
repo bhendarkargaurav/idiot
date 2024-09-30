@@ -1,0 +1,17 @@
+.img{
+    height: 30vw;
+    width: 75vw; 
+    margin-left: 8rem;
+    
+    /* margin-top: .6rem; */
+}
+.h1{
+    text-align: center;
+    /* text-shadow: 2px 2px 3px rgba(245, 121, 121, 0.1); */
+    color: rgb(252, 30, 30);
+    text-decoration: dotted;
+    font-size: 30px;
+    text-shadow: blueviolet;
+}
+
+   
